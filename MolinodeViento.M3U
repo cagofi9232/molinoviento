@@ -1,112 +1,135 @@
-#EXTM3U
+# ===== INFANTIL =====
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Azteca_7_logo_2023.svg/512px-Azteca_7_logo_2023.svg.png" group-title="México",Azteca 7
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.la" tvg-name="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
+http://181.224.200.5:2277/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV_Azteca_logo_2015.png/512px-TV_Azteca_logo_2015.png" group-title="México",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.la" tvg-name="Disney Junior" tvg-logo="" group-title="Infantil",Disney Junior
+http://181.224.200.5:2277/play/a0dm/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="CANAL ONCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal_Once_logo_2019.svg/512px-Canal_Once_logo_2019.svg.png" group-title="México",CANAL ONCE
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2160158.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.la" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+http://45.170.130.224:8000/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" tvg-logo="https://i.imgur.com/DE9OO0x.png" group-title="México",ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.la" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
+http://181.224.200.5:2277/play/a0bm/index.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas_logo_2016.png/512px-Las_Estrellas_logo_2016.png" group-title="México",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:-1 tvg-id="NickJr.la" tvg-name="Nick Jr." tvg-logo="" group-title="Infantil",Nick Jr.
+http://45.170.130.224:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-id="Nueve.mx" tvg-name="Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Nueve_2018.png/512px-Logo_Nueve_2018.png" group-title="México",Nueve
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.la" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
+http://181.224.200.5:2277/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySports.mx" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_2020_logo.svg/512px-Sky_Sport_2020_logo.svg.png" group-title="México",Sky Sports
-https://vidwestxyz.com/459664326/24138642/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="BabyFirst.la" tvg-name="BabyFirst" tvg-logo="" group-title="Infantil",BabyFirst
+http://45.170.130.224:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TUDN_logo.svg/512px-TUDN_logo.svg.png" group-title="México",TUDN
-https://vidwestxyz.com/459664326/24138642/mid_1280x720_2500.mp4
+# ===== DOCUMENTALES =====
 
-#EXTINF:-1 tvg-id="Dsports.uy" tvg-name="Dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Directv_Sports_logo.png/512px-Directv_Sports_logo.png" group-title="Mundial 2026",Dsports
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="DiscoveryChannel.la" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery Channel
+http://181.224.200.5:2277/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-id="DsportsPlus.uy" tvg-name="Dsports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Directv_Sports_logo.png/512px-Directv_Sports_logo.png" group-title="Mundial 2026",Dsports Plus
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="DiscoveryTheater.la" tvg-name="Discovery Theater" tvg-logo="" group-title="Documentales",Discovery Theater
+http://181.224.200.5:2277/play/a0bj/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo51.us" tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Mundial 2026",Telemundo 51
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="DiscoveryWorld.la" tvg-name="Discovery World" tvg-logo="" group-title="Documentales",Discovery World
+http://181.224.200.5:2277/play/a0ap/index.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoDeportes.us" tvg-name="Telemundo Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Mundial 2026",Telemundo Deportes
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.la" tvg-name="Discovery Turbo" tvg-logo="" group-title="Documentales",Discovery Turbo
+http://45.170.130.224:8000/play/a03q/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="Deportes",DAZN F1
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="History.la" tvg-name="History Channel" tvg-logo="" group-title="Documentales",History Channel
+http://181.224.200.5:2277/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN La Liga
-https://vidwestxyz.com/459664326/24138642/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="History2.la" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2
+http://181.224.200.5:2277/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/512px-ESPN_logo.svg.png" group-title="Deportes",ESPN
-https://www.tvplusgratis2.com/espn-en-vivo.php
+#EXTINF:-1 tvg-id="NatGeo.la" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic
+http://181.224.200.5:2277/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-https://egv630970h44.15072669.net:8443/hls/pu1sgwiscq0e.m3u8?s=9XzrDWX2n4ByRfx9uuRgeg&e=1780710290
+#EXTINF:-1 tvg-id="AnimalPlanet.la" tvg-name="Animal Planet" tvg-logo="" group-title="Documentales",Animal Planet
+http://181.224.200.5:2277/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2MX.mx" tvg-name="ESPN 2 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 MX
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="LoveNature.la" tvg-name="Love Nature" tvg-logo="" group-title="Documentales",Love Nature
+http://181.224.200.5:2277/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.us" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ESPN3_logo.svg/512px-ESPN3_logo.svg.png" group-title="Deportes",ESPN 3
-https://vidwestxyz.com/459664326/24138640/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="InvestigationDiscovery.la" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentales",Investigation Discovery
+http://181.224.200.5:2277/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3MX.mx" tvg-name="ESPN 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ESPN3_logo.svg/512px-ESPN3_logo.svg.png" group-title="Deportes",ESPN 3 MX
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="HomeHealth.la" tvg-name="Home & Health" tvg-logo="" group-title="Documentales",Home & Health
+http://181.224.200.5:2277/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.us" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ESPN4_logo.svg/512px-ESPN4_logo.svg.png" group-title="Deportes",ESPN 4
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="ElGourmet.la" tvg-name="El Gourmet" tvg-logo="" group-title="Documentales",El Gourmet
+http://181.224.200.5:2277/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNMX.mx" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/512px-ESPN_logo.svg.png" group-title="Deportes",ESPN MX
-https://vidwestxyz.com/459664326/24138642/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="TLC.la" tvg-name="TLC" tvg-logo="" group-title="Documentales",TLC
+http://45.170.130.224:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premiun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/512px-ESPN_logo.svg.png" group-title="Deportes",ESPN Premiun
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+# ===== NOTICIAS =====
 
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premiun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fox_Sports_logo_2012.svg/512px-Fox_Sports_logo_2012.svg.png" group-title="Deportes",Fox Sports Premiun
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" tvg-logo="" group-title="Noticias",NTN24
+http://181.224.200.5:2277/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT Sports Premiun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TNT_Sports_logo.svg/512px-TNT_Sports_logo.svg.png" group-title="Deportes",TNT Sports Premiun
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="CNN en Español" tvg-logo="" group-title="Noticias",CNN en Español
+http://45.170.130.224:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TYC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes",TYC Sports
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias",CNN Chile
+http://45.170.130.224:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_2015.svg/512px-AXN_logo_2015.svg.png" group-title="Peliculas y Series",AXN
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="" group-title="Noticias",France 24
+http://45.170.130.224:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="CineCanal.mx" tvg-name="Cine Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cinecanal_2018.png/512px-Cinecanal_2018.png" group-title="Peliculas y Series",Cine Canal
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX News" tvg-logo="" group-title="Noticias",FOX News
+http://41.205.93.154/FOX-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Peliculas y Series",CINEMAX
-https://vidwestxyz.com/459664326/24138640/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="" group-title="Noticias",FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Golden_TV_logo.png/512px-Golden_TV_logo.png" group-title="Peliculas y Series",Golden
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="RPP.pe" tvg-name="RPP Noticias" tvg-logo="" group-title="Noticias",RPP Noticias
+http://181.224.200.5:2277/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="Golden Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Golden_TV_logo.png/512px-Golden_TV_logo.png" group-title="Peliculas y Series",Golden Plus
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+# ===== INTERNACIONALES =====
 
-#EXTINF:-1 tvg-id="SonyChannel.us" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas y Series",Sony Channel
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="Global TV" tvg-logo="" group-title="Internacionales",Global TV
+http://181.224.200.5:2277/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Space_logo_2008.svg/512px-Space_logo_2008.svg.png" group-title="Peliculas y Series",Space
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="" group-title="Internacionales",ATV
+http://181.224.200.5:2277/play/3232/index.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel.us" tvg-name="Start Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",Start Channel
-https://vidwestxyz.com/459664326/24138640/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="Panamericana TV" tvg-logo="" group-title="Internacionales",Panamericana TV
+http://181.224.200.5:2277/play/kkio/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TNT_%28TV_channel%29_logo.svg/512px-TNT_%28TV_channel%29_logo.svg.png" group-title="Peliculas y Series",TNT
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="TVE.es" tvg-name="TVE Internacional" tvg-logo="" group-title="Internacionales",TVE Internacional
+http://45.170.130.224:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TNT_Series_logo.svg/512px-TNT_Series_logo.svg.png" group-title="Peliculas y Series",TNT Series
-https://vidwestxyz.com/459664326/24126992/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="" group-title="Internacionales",Telefe
+http://45.170.130.224:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="UniversalTV.us" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Universal_TV_2018.svg/512px-Universal_TV_2018.svg.png" group-title="Peliculas y Series",Universal TV
-https://vidwestxyz.com/459664326/24138640/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" group-title="Internacionales",Paraguay TV
+http://45.170.130.224:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner_Channel_2021.svg/512px-Warner_Channel_2021.svg.png" group-title="Peliculas y Series",Warner
-https://vidwestxyz.com/459664326/24126990/mid_1280x720_2500.mp4
+#EXTINF:-1 tvg-id="AmericaTV.py" tvg-name="América TV PY" tvg-logo="" group-title="Internacionales",América TV PY
+http://45.170.130.224:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="" group-title="Internacionales",Telefuturo
+http://45.170.130.224:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="" group-title="Internacionales",Trece
+http://45.170.130.224:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" tvg-logo="" group-title="Internacionales",SNT
+http://45.170.130.224:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="" group-title="Internacionales",Unicanal
+http://45.170.130.224:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.py" tvg-name="La Tele" tvg-logo="" group-title="Internacionales",La Tele
+http://45.170.130.224:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravisión" tvg-logo="" group-title="Internacionales",Paravisión
+http://45.170.130.224:8000/play/a032/index.m3u8
+
+# ===== RELIGIOSOS =====
+
+#EXTINF:-1 tvg-id="Enlace.us" tvg-name="Enlace" tvg-logo="" group-title="Religiosos",Enlace
+http://45.170.130.224:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="ESNE.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religiosos",ESNE TV
+http://45.170.130.224:8000/play/a03r/index.m3u8
