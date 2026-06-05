@@ -1,0 +1,109 @@
+#EXTM3U
+
+#################################################
+# MUNDIAL FIFA 2026
+#################################################
+
+#EXTINF:-1 tvg-id="fifaplus" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/FIFA%2B_logo.svg" group-title="🏆 Mundial FIFA 2026",FIFA+
+https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/6d1340e1-972c-4b51-9cae-2ec03a877c77/2.m3u8
+
+#EXTINF:-1 tvg-id="telemundodeportes" tvg-name="Telemundo Deportes 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Telemundo_Deportes_logo.png" group-title="🏆 Mundial FIFA 2026",Telemundo Deportes 1
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canal_5_Mexico_logo.svg" group-title="🏆 Mundial FIFA 2026",Canal 5
+https://egv630970h44.15072669.net:8443/hls/ljtwme.m3u8?s=yMxec7dYn22ZwPIw2YaUxg&e=1780703615
+
+#EXTINF:-1 tvg-id="azteca7" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Azteca_7_logo.svg" group-title="🏆 Mundial FIFA 2026",Azteca 7
+https://egv630970h44.15072669.net:8443/hls/53qmo.m3u8?s=8torYIv0qWXOK0ggfLx3Vw&e=1780703616
+
+#################################################
+# TV ABIERTA MÉXICO
+#################################################
+
+#EXTINF:-1 tvg-id="lasestrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_Estrellas_logo.svg" group-title="🇲🇽 TV Abierta",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canal_5_Mexico_logo.svg" group-title="🇲🇽 TV Abierta",Canal 5
+https://egv630970h44.15072669.net:8443/hls/ljtwme.m3u8?s=yMxec7dYn22ZwPIw2YaUxg&e=1780703615
+
+#EXTINF:-1 tvg-id="azteca7" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Azteca_7_logo.svg" group-title="🇲🇽 TV Abierta",Azteca 7
+https://egv630970h44.15072669.net:8443/hls/53qmo.m3u8?s=8torYIv0qWXOK0ggfLx3Vw&e=1780703616
+
+#EXTINF:-1 tvg-id="canal9" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nu9ve_logo.svg" group-title="🇲🇽 TV Abierta",Canal 9
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w238476767.m3u8
+
+#EXTINF:-1 tvg-id="canalonce" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Canal_Once_logo.svg" group-title="🇲🇽 TV Abierta",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2163840.m3u8
+
+#################################################
+# NOTICIAS
+#################################################
+
+#EXTINF:-1 tvg-id="cnnespanol" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="📰 Noticias",CNN Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="teleformula" tvg-name="Teleformula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Grupo_Formula_logo.png" group-title="📰 Noticias",Teleformula
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2163840.m3u8
+
+#################################################
+# DEPORTES
+#################################################
+
+#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="⚽ Deportes",Fox Sports
+https://egv630970h44.15072669.net:8443/hls/47vpt.m3u8
+
+#EXTINF:-1 tvg-id="foxsports1" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="⚽ Deportes",Fox Sports 1
+https://egv630970h44.15072669.net:8443/hls/jablnuk6y1adx4v.m3u8
+
+#EXTINF:-1 tvg-id="tntsports" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TNT_Sports_logo.svg" group-title="⚽ Deportes",TNT Sports
+https://egv630970h44.15072669.net:8443/hls/xkvfhc3.m3u8
+
+#EXTINF:-1 tvg-id="beinsports" tvg-name="beIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Bein_Sports_logo.svg" group-title="⚽ Deportes",beIN Sports Ñ
+https://egv630970h44.15072669.net:8443/hls/oga0ahtwrbbgpd.m3u8
+
+#EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DSPORTS_logo.png" group-title="⚽ Deportes",DSports
+https://egv630970h44.15072669.net:8443/hls/4jva7tj642f9b.m3u8
+
+#EXTINF:-1 tvg-id="dsports2" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DSPORTS_logo.png" group-title="⚽ Deportes",DSports 2
+https://egv630970h44.15072669.net:8443/hls/bfh36g.m3u8
+
+#EXTINF:-1 tvg-id="espnmx1" tvg-name="ESPN MX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Deportes",ESPN MX 1
+https://egv630970h44.15072669.net:8443/hls/g6auvbu66y.m3u8
+
+#EXTINF:-1 tvg-id="espnmx2" tvg-name="ESPN MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Deportes",ESPN MX 2
+https://egv630970h44.15072669.net:8443/hls/22hothctx.m3u8
+
+#EXTINF:-1 tvg-id="espnmx3" tvg-name="ESPN MX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Deportes",ESPN MX 3
+https://egv630970h44.15072669.net:8443/hls/nrdfvp7hk3.m3u8
+
+#EXTINF:-1 tvg-id="espnmx4" tvg-name="ESPN MX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Deportes",ESPN MX 4
+https://egv630970h44.15072669.net:8443/hls/yy8u716.m3u8
+
+#################################################
+# INTERNACIONALES
+#################################################
+
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telemundo_logo.svg" group-title="🌎 Internacional",Telemundo
+https://egv630970h44.15072669.net:8443/hls/80yp1j.m3u8
+
+#EXTINF:-1 tvg-id="telemundo51" tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telemundo_logo.svg" group-title="🌎 Internacional",Telemundo 51
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+
+#EXTINF:-1 tvg-id="caracoltv" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Caracol_Television_logo.svg" group-title="🌎 Internacional",Caracol TV
+https://hls.tdtcloud.xyz/hls/carsd2/index.m3u8
+
+#EXTINF:-1 tvg-id="tve1" tvg-name="TVE La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/La_1_logo_2021.svg" group-title="🌎 Internacional",TVE La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-id="tve2" tvg-name="TVE La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/La_2_logo_2021.svg" group-title="🌎 Internacional",TVE La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+
+#################################################
+# TV AZTECA
+#################################################
+
+#EXTINF:-1 tvg-id="aztecainternacional" tvg-name="TV Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Azteca_logo.svg" group-title="📺 TV Azteca",TV Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 tvg-id="azteca7" tvg-name="TV Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Azteca_7_logo.svg" group-title="📺 TV Azteca",TV Azteca 7
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
