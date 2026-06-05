@@ -1,3 +1,145 @@
+#EXTM3U
+
+# ===== MUNDIAL 2026 =====
+
+#EXTINF:-1 tvg-id="TelemundoDeportes.us" tvg-name="Telemundo Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_logo_2018.svg" group-title="Mundial 2026",Telemundo Deportes
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="Mundial 2026",FOX Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="Mundial 2026",FOX Sports 1
+http://rezofoot.tv/Fox_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.la" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Mundial 2026",ESPN
+http://45.170.130.224:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.la" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Mundial 2026",ESPN 2
+http://45.170.130.224:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.la" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Mundial 2026",ESPN 3
+http://45.170.130.224:8000/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.la" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Mundial 2026",ESPN 4
+http://45.170.130.224:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.la" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="Mundial 2026",FOX Sports 2
+http://45.170.130.224:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.la" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_Sports_logo.svg" group-title="Mundial 2026",FOX Sports 3
+http://45.170.130.224:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="GolTV.la" tvg-name="GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/GolTV_logo.svg" group-title="Mundial 2026",GolTV
+http://45.170.130.224:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TyC_Sports_logo.svg" group-title="Mundial 2026",TyC Sports
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" tvg-logo="https://i.imgur.com/DE9OO0x.png" group-title="Mundial 2026",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+
+# ===== MÉXICO =====
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TV_Azteca_logo_2015.png" group-title="México",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Canal_Once_logo_2019.svg" group-title="México",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2160158.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas_logo_2016.png" group-title="México",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="Nueve.mx" tvg-name="Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Nueve_2018.png" group-title="México",Nueve
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="" group-title="México",De Película
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" tvg-logo="" group-title="México",TLNovelas
+http://181.224.200.5:2277/play/a0d0/index.m3u8
+# ===== PELÍCULAS Y SERIES =====
+
+#EXTINF:-1 tvg-id="AE.la" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/A%26E_Network_logo.svg" group-title="Películas y Series",A&E
+http://181.224.200.5:2277/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.la" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/AXN_logo.svg" group-title="Películas y Series",AXN
+http://181.224.200.5:2277/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.la" tvg-name="Cinecanal" tvg-logo="" group-title="Películas y Series",Cinecanal
+http://181.224.200.5:2277/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.la" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/FX_International_logo.svg" group-title="Películas y Series",FX
+http://181.224.200.5:2277/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden.la" tvg-name="Golden" tvg-logo="" group-title="Películas y Series",Golden
+http://181.224.200.5:2277/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.la" tvg-name="Golden Edge" tvg-logo="" group-title="Películas y Series",Golden Edge
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.la" tvg-name="Paramount Network" tvg-logo="" group-title="Películas y Series",Paramount Network
+http://181.224.200.5:2277/play/a0df/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.la" tvg-name="Sony Channel" tvg-logo="" group-title="Películas y Series",Sony Channel
+http://181.224.200.5:2277/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.la" tvg-name="Star Channel" tvg-logo="" group-title="Películas y Series",Star Channel
+http://181.224.200.5:2277/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.la" tvg-name="Studio Universal" tvg-logo="" group-title="Películas y Series",Studio Universal
+http://181.224.200.5:2277/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.la" tvg-name="Universal TV" tvg-logo="" group-title="Películas y Series",Universal TV
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.la" tvg-name="Warner Channel" tvg-logo="" group-title="Películas y Series",Warner Channel
+http://181.224.200.5:2277/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="Space.la" tvg-name="Space" tvg-logo="" group-title="Películas y Series",Space
+http://45.170.130.224:8000/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM.la" tvg-name="TCM" tvg-logo="" group-title="Películas y Series",TCM
+http://45.170.130.224:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.la" tvg-name="TNT" tvg-logo="" group-title="Películas y Series",TNT
+http://45.170.130.224:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.la" tvg-name="TNT Novelas" tvg-logo="" group-title="Películas y Series",TNT Novelas
+http://45.170.130.224:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="" group-title="Películas y Series",Telemundo
+http://181.224.200.5:2277/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.la" tvg-name="Pasiones" tvg-logo="" group-title="Películas y Series",Pasiones
+http://181.224.200.5:2277/play/4324/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.la" tvg-name="Lifetime" tvg-logo="" group-title="Películas y Series",Lifetime
+http://45.170.130.224:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.la" tvg-name="USA Network" tvg-logo="" group-title="Películas y Series",USA Network
+http://45.170.130.224:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="UP.la" tvg-name="UP TV" tvg-logo="" group-title="Películas y Series",UP TV
+http://181.224.200.5:2277/play/a0d2/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.la" tvg-name="Cinemax" tvg-logo="" group-title="Películas y Series",Cinemax
+http://45.170.130.224:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.la" tvg-name="HBO" tvg-logo="" group-title="Películas y Series",HBO
+http://45.170.130.224:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.la" tvg-name="HBO 2" tvg-logo="" group-title="Películas y Series",HBO 2
+http://45.170.130.224:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.la" tvg-name="HBO Family" tvg-logo="" group-title="Películas y Series",HBO Family
+http://45.170.130.224:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.la" tvg-name="HBO Plus" tvg-logo="" group-title="Películas y Series",HBO Plus
+http://45.170.130.224:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.la" tvg-name="HBO Xtreme" tvg-logo="" group-title="Películas y Series",HBO Xtreme
+http://45.170.130.224:8000/play/a01k/index.m3u8
+
 # ===== INFANTIL =====
 
 #EXTINF:-1 tvg-id="DisneyChannel.la" tvg-name="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
@@ -125,11 +267,3 @@ http://45.170.130.224:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravisión" tvg-logo="" group-title="Internacionales",Paravisión
 http://45.170.130.224:8000/play/a032/index.m3u8
-
-# ===== RELIGIOSOS =====
-
-#EXTINF:-1 tvg-id="Enlace.us" tvg-name="Enlace" tvg-logo="" group-title="Religiosos",Enlace
-http://45.170.130.224:8000/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-id="ESNE.us" tvg-name="ESNE TV" tvg-logo="" group-title="Religiosos",ESNE TV
-http://45.170.130.224:8000/play/a03r/index.m3u8
